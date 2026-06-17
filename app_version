@@ -2,6 +2,7 @@
   "min_version": "1.0.8",
   "latest_version": "1.0.8",
   "force_update": true,
+  "use_app": false,
   "play_store_url": "https://play.google.com/store/apps/details?id=com.akoma.app",
-  "update_message": "A new version of Akoma (1.0.7) is available with important updates. Please update to continue using the app."
+  "update_message": "A new version of Akoma (1.0.8) is available with important updates. Please update to continue using the app."
 }
