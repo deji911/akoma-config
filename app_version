@@ -2,7 +2,7 @@
   "min_version": "1.0.9",
   "latest_version": "1.0.9",
   "force_update": true,
-  "use_app": true,
+  "use_app": false,
   "play_store_url": "https://play.google.com/store/apps/details?id=com.akoma.mobile",
   "update_message": "A new version of Akoma Africa is available with important updates. Please update to continue using the app."
 }
